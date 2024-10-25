@@ -10,11 +10,9 @@
 
 - 💬 Ask me about **ANYTHING related to the 2008 financial crisis**
 
-- 📫 How to reach me **amaniar.007@gmail.com**
+- 📫 How to reach me: **amaniar.007@gmail.com**
 
-- ⚡ Fun fact **I think pineapple DOES belong on pizza. (w/ jalapeños, spicy and sweet!)**
-
-<h3 align="left">Connect with me:</h3>
+- ⚡ Fun fact: **I think pineapple DOES belong on pizza. (w/ jalapeños, spicy and sweet!)**
 <p align="left">
 </p
 
@@ -26,7 +24,7 @@
 </div>
 
 ###
-
+<h3 align="left">My Favorite Languages & Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -46,6 +44,7 @@
 </div>
 
 ###
+<h3 align="left">Connect with me:</h3>
 
 <div align="left">
   <a href="offnight." target="_blank">
