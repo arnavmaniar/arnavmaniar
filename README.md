@@ -2,7 +2,21 @@
 
 ###
 
-<h4 align="left">Hello World!!</h4>
+<h4 align="left">A developer from Apex, NC, heavily interested in finance and data science. Senior @ The North Carolina School of Science & Math</h4>
+
+- 🔭 I’m currently working on **StockVision** a predictive stock modeling project that uses ML to predict share prices of the Magnificent 7
+
+- 🌱 I’m currently learning **Data Structures in Java, Neural Networks, and JavaScript**
+
+- 💬 Ask me about **ANYTHING related to the 2008 financial crisis**
+
+- 📫 How to reach me **amaniar.007@gmail.com**
+
+- ⚡ Fun fact **I think pineapple DOES belong on pizza. (w/ jalapeños, spicy and sweet!)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p
 
 ###
 
