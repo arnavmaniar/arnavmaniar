@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">A developer from Apex, NC, heavily interested in finance and data science. Senior @ The North Carolina School of Science & Math</h4>
+<h4 align="left">A developer from Apex, NC, heavily interested in finance and data science. Senior @ The North Carolina School of Science & Math — Morganton</h4>
 
 - 🔭 I’m currently working on **StockVision** a predictive stock modeling project that uses ML to predict share prices of the Magnificent 7
 
