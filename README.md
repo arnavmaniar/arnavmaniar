@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **amaniar.007@gmail.com**
 
-- ⚡ Fun fact: **I think pineapple DOES belong on pizza. (w/ jalapeños, spicy and sweet!)**
+- ⚡ Fun fact: **I type 147 wpm!**
 <p align="left">
 </p
 
